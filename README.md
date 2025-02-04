@@ -18,12 +18,12 @@ Paul Graham RAG is an AI-powered **retrieval-augmented generation (RAG)** system
 ## 🚀 Installation  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/paul-graham-rag.git
+   git clone https://github.com/Amr-Abdelaty-fathalla/paul-graham-rag.git
    cd paul-graham-rag
 2. **Install dependencies**  
    ```bash
     pip install -r requirements.txt
-3. **IRun the application**  
+3. **Run the application**  
    ```bash
     python main.py
 
