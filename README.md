@@ -13,7 +13,6 @@ Paul Graham RAG is an AI-powered **retrieval-augmented generation (RAG)** system
 - **Ollama** – Embeddings & LLM inference  
 - **FAISS** – Vector search database  
 - **Python** – Core development  
-- **FastAPI** (optional) – API for queries
 
 ## 🚀 Installation  
 1. **Clone the repository**  
